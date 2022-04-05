@@ -14,7 +14,7 @@
 - ### php, laravel
 - ### nodejs
 
-  [![Fadel vscode](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg)]
+  [![Fadel vscode](<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />)]
 [![Fadel's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mohamed-Fdl)](https://github.com/Mohamed-Fdl)
           
 
