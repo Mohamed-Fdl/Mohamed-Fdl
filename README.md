@@ -15,7 +15,7 @@
 - ### nodejs
 
 
-          
+  [![Fadel's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mohamed-Fdl)](https://github.com/anuraghazra/github-readme-stats)
           
 
 <!---
