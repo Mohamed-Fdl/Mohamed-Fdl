@@ -12,7 +12,7 @@
 - ### postman
 - ### html, css, js
 - ### php, laravel
-- ### nodejs
+- ### npm,nodejs
 
 
 # My stats
