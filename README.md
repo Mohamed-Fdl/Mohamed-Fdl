@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning everything 🤣
 - 🥅 2023 Goals: Contribute more to Open Source projects and Git-Hub Commits
-- ⚡ Fun fact: I love to travel, sports!!
+- ⚡ Fun fact: I love ?????? 🤣!!
 
 
 ### Connect with me:
@@ -41,8 +41,8 @@
 <center>
   <table>
     <tr>
-        <td><img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mohamed-Fdl&hide=html&layout=compact&theme=buefy" /></td>
-        <td><img width="495px" align="left" src="https://github-readme-stats.vercel.app/api?username=Mohamed-Fdl&hide=html&layout=compact&theme=buefy"/></td>
+        <td><img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mohamed-Fdl" /></td>
+        <td><img width="495px" align="left" src="https://github-readme-stats.vercel.app/api?username=Mohamed-Fdl"/></td>
     </tr>   
   </table>
 </center>
