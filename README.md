@@ -4,7 +4,7 @@
 ## I'm a Backend developer & Learner!!
 
 - 🌱 I’m currently learning everything 🤣
-- 🥅 2023 Goals: Contribute more to Open Source projects and Git-Hub Commits
+- 🥅 2024 Goals: Contribute more to Open Source projects and Git-Hub Commits
 - ⚡ Fun fact: I love "404"!! 🤣
 
 
