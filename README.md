@@ -1,4 +1,4 @@
-### Hi there 👋, I'm Fdlcode - aka Mohamed Fadel
+### Hi there 👋, I'm Mohamed Fadel - aka Fdlcode
 
 
 ## I'm a Backend developer & Learner!!
@@ -33,19 +33,6 @@
 <img align="left" alt="Docker" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png" />
 
 <br />
-
----
-
-### :zap: GitHub Stats
-
-<center>
-  <table>
-    <tr>
-        <td><img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mohamed-Fdl" /></td>
-        <td><img width="495px" align="left" src="https://github-readme-stats.vercel.app/api?username=Mohamed-Fdl"/></td>
-    </tr>   
-  </table>
-</center>
 
 ---
 
