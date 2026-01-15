@@ -3,9 +3,9 @@
 
 ## I'm a Backend developer & Learner!!
 
-- 🌱 I’m currently learning everything 🤣
-- 🥅 2025 Goals: Contribute more to Open Source projects and Git-Hub Commits
-- ⚡ Fun fact: I am a 418 !! 🤣
+- 🌱 I’m currently learning rust 🦀
+- 🥅 2025 Goals: Contribute more to Open Source projects as the nodejs core.
+- ⚡ Mantra: Passion & consistent work !!
 
 
 ### Connect with me:
